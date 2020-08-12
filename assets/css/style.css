@@ -81,7 +81,7 @@ img {
 
 .sidenav li a {
   display: block;
-  min-width: 60px;
+  min-width: 100px;
   max-width: 100px;
   margin: 0 auto 30px auto;
   background: #fff;
